@@ -4,10 +4,10 @@ Hi 👋 My name is Brian Sinquin
 Ph.D in Photonics
 -----------------
 
-* 🌍  I'm based in France
+* 🌍  I'm based in Berlin 🇩🇪
 * 🖥️  See my portfolio at [brian-sinquin.github.io](http://brian-sinquin.github.io)
-* ✉️  You can contact me at [brian.sinquin@gmail.com](mailto:brian.sinquin@gmail.com)
-* 🚀  I'm currently working on [FiberNlse.jl](http://github.com/brian-sinquin/FiberNlse.jl) and [ComplexNoise.jl](http://github.com/brian-sinquin/ComplexNoise.jl)
+* ✉️  You can contact me at [brian.sinquin(AT)gmail.com](mailto:brian.sinquin@gmail.com)
+* 🚀  I'm currently working on [FiberNlse.jl](http://github.com/brian-sinquin/FiberNlse.jl)
 * 🧠  I'm learning Julia, Machine Learning and complex systems analysis
 * 🤝  I'm open to collaborating on open-source science or tool development
 * ⚡  I love climbing
