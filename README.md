@@ -1,13 +1,13 @@
 # Brian Sinquin
 
-Ph.D in Photonics
+Ph.D in Photonics, Postdoctoral researcher at the Max Born Institute for Nonlinear Optics and Short Pulse Spectroscopy, Berlin 🇩🇪
 
 ## About
 
 - Based in Berlin
-- Portfolio: [brian-sinquin.github.io](http://brian-sinquin.github.io)
+- Portfolio: [brian-sinquin.fr](http://brian-sinquin.fr)
 - Email: [brian.sinquin(at)gmail.com]()
-- Currently working on [FiberNlse.jl](http://github.com/brian-sinquin/FiberNlse.jl)
+- Currently working on [Soliton.jl](http://github.com/brian-sinquin/Soliton.jl)
 - Learning: Julia, Machine Learning, complex systems analysis
 - Open to collaboration on open-source science and tool development
 
