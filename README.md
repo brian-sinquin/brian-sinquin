@@ -6,7 +6,6 @@ Ph.D in Photonics, Postdoctoral researcher at the Max Born Institute for Nonline
 
 - Based in Berlin
 - Portfolio: [brian-sinquin.fr](http://brian-sinquin.fr)
-- Email: [brian.sinquin(at)gmail.com]()
 - Currently working on [Soliton.jl](http://github.com/brian-sinquin/Soliton.jl)
 - Learning: Julia, Machine Learning, complex systems analysis
 - Open to collaboration on open-source science and tool development
